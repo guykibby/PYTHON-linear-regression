@@ -17,22 +17,22 @@ for line in open('data_1d.csv'):
     Y.append(float(y))
 
 # convert to numpy arrays
-X = np.array(X)    
+X = np.array(X)
 Y = np.array(Y)
 
 # plot array data onto graph
-plt.scatter(X,Y)
+plt.scatter(X, Y)
 plt.show()
 
 # calculate the line of best fit
 denom = X.dot(X) - X.mean() * X.sum()
 a = (Y.dot(X) - Y.mean() * X.sum()) / denom
-b = ( Y.mean() * X.dot(X) - X.mean() * Y.dot(X))  / denom
+b = (Y.mean() * X.dot(X) - X.mean() * Y.dot(X)) / denom
 
 # calculate Y of best fit line
 yhat = a*X + b
 
 # plot the data w line of best fit
-plt.scatter(X,Y)
-plt.plot(X,yhat)
+plt.scatter(X, Y)
+plt.plot(X, yhat)
 plt.show()
