@@ -9,3 +9,4 @@
 - ![image](https://user-images.githubusercontent.com/27617096/204056442-c08bf3a8-b2a5-43cd-80b7-7778541f7583.png)
 - Scatter plot of dummy data using matplotlib.
 - Line plot of yhat using matplotlib.
+- ![image](Figure_1.png)
