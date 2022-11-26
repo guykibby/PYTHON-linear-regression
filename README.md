@@ -10,3 +10,6 @@
 - Scatter plot of dummy data using matplotlib.
 - Line plot of yhat using matplotlib.
 - ![image](Figure_1.png)
+
+![image](https://user-images.githubusercontent.com/27617096/204080019-82351c4a-88d8-4a9c-bebf-41d8b6e2c0e4.png)
+
