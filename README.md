@@ -13,7 +13,7 @@ Calculating line of best fit from 1-D dummy Data
 - ![image](https://user-images.githubusercontent.com/27617096/204080019-82351c4a-88d8-4a9c-bebf-41d8b6e2c0e4.png)
 
 
-# Simple linear regression for exponential relationships
+# Linear regression for exponential relationships
 
 Testing whether Moore's Law is true - that the number of transistors on an integrated circuit doubles every 2 years.
 
