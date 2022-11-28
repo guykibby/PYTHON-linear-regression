@@ -22,3 +22,10 @@ Testing whether Moore's Law is true - that the number of transistors on an integ
 - ![image](ExpCalculation.jpg)
 
 Results
+- Scatter plot of initial data:
+- ![image](https://user-images.githubusercontent.com/27617096/204403317-b8f52803-ab81-4ea9-a89c-b679ea302f59.png)
+- Logarythmic data with line of best fit.
+- ![image](https://user-images.githubusercontent.com/27617096/204403394-a4fa0796-7298-4801-bc5e-27bdd57cf941.png)
+- R-squared: 0.9529442852285758
+- Calculated time to double:  1.974533172379868 years 
+
